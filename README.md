@@ -54,7 +54,7 @@ To build and run this project, your environment must support the **System V AMD6
 **1. Clone the repository and navigate to the directory:**
 
 ```bash
-git clone 
+git clone https://github.com/Favour-MK/edge-ai-optimizer.git
 cd edge-ai-optimizer
 ```
 
